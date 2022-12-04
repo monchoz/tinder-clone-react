@@ -10,6 +10,12 @@
   width: 600px;
 }
 
+.card > h3 {
+  bottom: 10px;
+  color: white;
+  position: absolute;
+}
+
 .tinderCards__cardContainer {
   display: flex;
   justify-content: center;
