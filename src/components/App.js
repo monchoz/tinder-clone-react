@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Header from "./Header";
 import TinderCards from "./TinderCards";
 import Chat from "./Chat";
-import "./App.css";
+import "../styles/App.css";
 
 function App() {
   return (
